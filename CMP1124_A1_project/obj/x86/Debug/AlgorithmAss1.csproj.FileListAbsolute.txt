@@ -1,0 +1,36 @@
+\\srv125\staff$\jrogers\my documents\visual studio 2010\Projects\AlgorithmAss1\AlgorithmAss1\bin\Debug\AlgorithmAss1.exe
+\\srv125\staff$\jrogers\my documents\visual studio 2010\Projects\AlgorithmAss1\AlgorithmAss1\bin\Debug\AlgorithmAss1.pdb
+\\srv125\staff$\jrogers\my documents\visual studio 2010\Projects\AlgorithmAss1\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.exe
+\\srv125\staff$\jrogers\my documents\visual studio 2010\Projects\AlgorithmAss1\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.pdb
+F:\2014-15 ideas\Algorithms\Assessment\AlgorithmAss1\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.exe
+F:\2014-15 ideas\Algorithms\Assessment\AlgorithmAss1\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.pdb
+F:\2014-15 ideas\Algorithms\Assessment\AlgorithmAss1\AlgorithmAss1\bin\Debug\AlgorithmAss1.exe
+F:\2014-15 ideas\Algorithms\Assessment\AlgorithmAss1\AlgorithmAss1\bin\Debug\AlgorithmAss1.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\AlgorithmAss1\AlgorithmAss1\bin\Debug\AlgorithmAss1.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\AlgorithmAss1\AlgorithmAss1\bin\Debug\AlgorithmAss1.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\AlgorithmAss1\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\AlgorithmAss1\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.pdb
+G:\2014-15 ideas\Algorithms\Assessment\AlgorithmAss1\AlgorithmAss1\bin\Debug\AlgorithmAss1.exe
+G:\2014-15 ideas\Algorithms\Assessment\AlgorithmAss1\AlgorithmAss1\bin\Debug\AlgorithmAss1.pdb
+G:\2014-15 ideas\Algorithms\Assessment\AlgorithmAss1\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.exe
+G:\2014-15 ideas\Algorithms\Assessment\AlgorithmAss1\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.pdb
+F:\2014-15 ideas\Algorithms\Assessment\ExampleCoded solution - Copy\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.exe
+F:\2014-15 ideas\Algorithms\Assessment\ExampleCoded solution - Copy\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.pdb
+F:\2014-15 ideas\Algorithms\Assessment\ExampleCoded solution - Copy\AlgorithmAss1\bin\Debug\AlgorithmAss1.exe
+F:\2014-15 ideas\Algorithms\Assessment\ExampleCoded solution - Copy\AlgorithmAss1\bin\Debug\AlgorithmAss1.pdb
+F:\2015-16\UoL\Algorithm\ExampleCoded solution - with diagnostics\AlgorithmAss1\bin\Debug\AlgorithmAss1.exe
+F:\2015-16\UoL\Algorithm\ExampleCoded solution - with diagnostics\AlgorithmAss1\bin\Debug\AlgorithmAss1.pdb
+F:\2015-16\UoL\Algorithm\ExampleCoded solution - with diagnostics\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.exe
+F:\2015-16\UoL\Algorithm\ExampleCoded solution - with diagnostics\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.pdb
+G:\2015-16\UoL\Algorithm\ExampleCoded solution - with diagnostics\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.exe
+G:\2015-16\UoL\Algorithm\ExampleCoded solution - with diagnostics\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.pdb
+G:\2015-16\UoL\Algorithm\ExampleCoded solution - with diagnostics\AlgorithmAss1\bin\Debug\AlgorithmAss1.exe
+G:\2015-16\UoL\Algorithm\ExampleCoded solution - with diagnostics\AlgorithmAss1\bin\Debug\AlgorithmAss1.pdb
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\ExampleCoded solution - with diagnostics\AlgorithmAss1\bin\Debug\AlgorithmAss1.exe
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\ExampleCoded solution - with diagnostics\AlgorithmAss1\bin\Debug\AlgorithmAss1.pdb
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\ExampleCoded solution - with diagnostics\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.exe
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\ExampleCoded solution - with diagnostics\AlgorithmAss1\obj\x86\Debug\AlgorithmAss1.pdb
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\AlgorithmAss1\bin\Debug\CMP1124_A1_project.exe
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\AlgorithmAss1\bin\Debug\CMP1124_A1_project.pdb
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\AlgorithmAss1\obj\x86\Debug\CMP1124_A1_project.exe
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\AlgorithmAss1\obj\x86\Debug\CMP1124_A1_project.pdb

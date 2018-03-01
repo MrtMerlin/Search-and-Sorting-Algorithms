@@ -1,0 +1,19 @@
+                !-------------------------------------------------------------------------------------------!
+                !---                                                                                     ---!
+                !---   1. List Date Ascending                   2. List Date Descending                  ---!
+                !---                                                                                     ---!
+                !---   3. List Opening Price Ascending          4. List Opening Price Descending         ---!
+                !---                                                                                     ---!
+                !---   5. List Closing Price Ascending          6. List Closing Price Descending         ---!
+                !---                                                                                     ---!
+                !---   7. List Volume of sales Ascending        8. List Volume of sales Descending       ---!
+                !---                                                                                     ---!
+                !---   9. List difference of sales Ascending   10. List difference of sales Descending   ---!
+                !---                                                                                     ---!
+                !---  11. List days Ascending                  12. List days Descending                  ---!
+                !---                                                                                     ---!
+                !-------------------------------------------------------------------------------------------!
+                !---  13. Search the records by date           14. Search the records by day             ---!
+                !-------------------------------------------------------------------------------------------!
+                !---                              15. Exit Program                                       ---!
+                !-------------------------------------------------------------------------------------------!

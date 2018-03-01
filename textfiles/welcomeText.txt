@@ -1,0 +1,4 @@
+                !-------------------------------------------------------------------------------------------!
+                !---                      Hello and welcome to the Algorithm Test                        ---!
+                !---          This system allows staff to test student results for Assignment 1          ---!
+                !---                                                                                     ---!

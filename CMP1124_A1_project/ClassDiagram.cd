@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AlgorithmAss1.StoredData">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAEAABEIAAABAAAAAEAAAAAAAAAAAAQEAAAABAgBIAA=</HashCode>
+      <FileName>StoredData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlgorithmAss1.AlgorithmMain" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <AssociationLine Name="fileController" Type="FileAccessClass.FileAccess" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.625" Y="1.062" />
+        <Point X="3.625" Y="1.632" />
+        <Point X="2" Y="1.632" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="bank2Data" Type="AlgorithmAss1.StoredData" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.75" Y="0.641" />
+        <Point X="8.281" Y="0.641" />
+        <Point X="8.281" Y="1" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.359" Y="0.289" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="diagnosticTool" Type="AlgorithmAss1.Diagnostics" FixedFromPoint="true">
+      <Path>
+        <Point X="4.312" Y="1.062" />
+        <Point X="4.312" Y="2" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.494" Y="0.279" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAABwAAgIQCAAIAAAAACAMAAAAAAQAQggggBAAAAAA=</HashCode>
+      <FileName>MainCode.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="fileController" />
+      <Field Name="progConsole" />
+      <Field Name="diagnosticTool" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="bank2Data" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DisplayClass.Display" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAACAQtAAEAEAAgAAAAIQAEAUAAEQAgAOgAQABAI=</HashCode>
+      <FileName>ConsoleDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileAccessClass.FileAccess" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAOAABAAAAAABADAAAA=</HashCode>
+      <FileName>FileAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlgorithmAss1.Diagnostics" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <AssociationLine Name="sortObject" Type="AlgorithmAss1.SortingAlgorithms" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3" Y="2.25" />
+        <Point X="2.125" Y="2.25" />
+        <Point X="2.125" Y="2.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.369" Y="0.154" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="searchObject" Type="AlgorithmAss1.SearchAlgorithms" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.5" Y="2.312" />
+        <Point X="5.625" Y="2.312" />
+        <Point X="5.625" Y="2.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.494" Y="0.164" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAagAAEIwAAgABAABcAIAJAAAAAAQkAAAAhAAPAE=</HashCode>
+      <FileName>diagnostics.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="sortObject" />
+      <Field Name="searchObject" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AlgorithmAss1.SearchAlgorithms">
+    <Position X="4.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAwAAQAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>searchAlgorithms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlgorithmAss1.SortingAlgorithms">
+    <Position X="1" Y="2.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAKgAAMIAAAAABAABMAIAJAAAAAAAkggAAhAAPAE=</HashCode>
+      <FileName>SortingAlgorithms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

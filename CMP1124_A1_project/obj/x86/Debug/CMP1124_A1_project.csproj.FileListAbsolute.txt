@@ -1,0 +1,35 @@
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\AlgorithmAss1\bin\Debug\CMP1124_A1_project.exe
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\AlgorithmAss1\bin\Debug\CMP1124_A1_project.pdb
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\AlgorithmAss1\obj\x86\Debug\CMP1124_A1_project.exe
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\AlgorithmAss1\obj\x86\Debug\CMP1124_A1_project.pdb
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.exe
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.pdb
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.exe
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.pdb
+T:\School of Business\Private\Computing & Business\HNx\HNx Course Material\CMP1124M Algorithms & Complexity\Assessment\2015-16\Assignment\student project\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.csprojResolveAssemblyReference.cache
+C:\Users\lewis\OneDrive\Help Me Back Up\CMP1124M Algorithms and Complexity\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.exe
+C:\Users\lewis\OneDrive\Help Me Back Up\CMP1124M Algorithms and Complexity\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.pdb
+C:\Users\lewis\OneDrive\Help Me Back Up\CMP1124M Algorithms and Complexity\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.exe
+C:\Users\lewis\OneDrive\Help Me Back Up\CMP1124M Algorithms and Complexity\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.pdb
+C:\Users\lewis\OneDrive\Help Me Back Up\CMP1124M Algorithms and Complexity\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.csprojResolveAssemblyReference.cache
+C:\Users\lewis\OneDrive\Help Me Back Up\CMP1124M Algorithms and Complexity\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.exe
+C:\Users\lewis\OneDrive\Help Me Back Up\CMP1124M Algorithms and Complexity\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.pdb
+C:\Users\lewis\OneDrive\Help Me Back Up\CMP1124M Algorithms and Complexity\testRig for Progject\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.exe
+C:\Users\lewis\OneDrive\Help Me Back Up\CMP1124M Algorithms and Complexity\testRig for Progject\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.pdb
+C:\Users\lewis\OneDrive\Help Me Back Up\CMP1124M Algorithms and Complexity\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.csprojResolveAssemblyReference.cache
+E:\Projects\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.exe
+E:\Projects\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.pdb
+D:\Projects\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.exe
+D:\Projects\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.pdb
+D:\Projects\testRig for Progject\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.exe
+D:\Projects\testRig for Progject\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.pdb
+D:\Projects\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.csprojResolveAssemblyReference.cache
+E:\Projects\testRig for Progject\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.exe
+E:\Projects\testRig for Progject\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.pdb
+E:\Projects\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.csprojResolveAssemblyReference.cache
+D:\Algorithms and complexities\testRig for Progject\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.exe
+D:\Algorithms and complexities\testRig for Progject\CMP1124_A1_project\bin\Debug\CMP1124_A1_project.pdb
+D:\Algorithms and complexities\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.csprojResolveAssemblyReference.cache
+D:\Algorithms and complexities\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.csproj.CoreCompileInputs.cache
+D:\Algorithms and complexities\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.exe
+D:\Algorithms and complexities\testRig for Progject\CMP1124_A1_project\obj\x86\Debug\CMP1124_A1_project.pdb
